@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <!--<ResourceDictionary Source="pack://application:,,,/Util.Controls;component/Style/Colors.xaml" />-->
+        <!--<ResourceDictionary Source="pack://application:,,,/Util.Controls;component/Style/Global.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/Util.Controls;component/Style/Themes/FIcon.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/Util.Controls;component/Control/FButton.xaml" />-->
+        <!--<ResourceDictionary Source="pack://application:,,,/UICommons;component/Controls/WindowBase.xaml"/>-->
+
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

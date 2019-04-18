@@ -1,0 +1,16 @@
+﻿<Window x:Class="导出弹出窗样式.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:导出弹出窗样式"
+        mc:Ignorable="d"
+        xmlns:xly ="clr-namespace:UICommons;assembly=UICommons"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="click a WindowBox" Click="Button_Click" HorizontalAlignment="Left" Margin="64,98,0,0" VerticalAlignment="Top" Width="158" Height="55"/>
+        <xly:FButton FIcon="&#xe628;" Margin="488,98,164,282" Width="140" Height="40" Background="#771C79" MouseOverBackground="#F20BA0"  Click="FButton_Click" >WaitingBox</xly:FButton>
+        <DatePicker Name="data" Margin="64,232,528,158" Style="{StaticResource DefaultDatePicker}"></DatePicker>
+
+    </Grid>
+</Window>

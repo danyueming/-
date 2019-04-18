@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "导出弹出窗样式", "导出弹出窗样式\导出弹出窗样式.csproj", "{19F82A2D-5546-4F4E-9850-8D80517C4CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UICommons", "UICommons\UICommons.csproj", "{7CD0A11D-695B-4393-9523-4C51D4E539CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F82A2D-5546-4F4E-9850-8D80517C4CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F82A2D-5546-4F4E-9850-8D80517C4CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F82A2D-5546-4F4E-9850-8D80517C4CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F82A2D-5546-4F4E-9850-8D80517C4CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD0A11D-695B-4393-9523-4C51D4E539CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD0A11D-695B-4393-9523-4C51D4E539CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD0A11D-695B-4393-9523-4C51D4E539CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD0A11D-695B-4393-9523-4C51D4E539CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35683BC1-4974-4A50-AD70-615DD3BB548A}
+	EndGlobalSection
+EndGlobal
